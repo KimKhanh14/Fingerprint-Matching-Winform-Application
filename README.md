@@ -2,6 +2,9 @@
 
 ## Introduction
  This is a Fingerprint Matching Winforms Application using Minutiae Feature. The project is written in C# language on Visual Studio 2019.
+ <p align="center">
+    <img style="width: 50%" src="Image/UI.png"/>
+</p>
 
 ## Data format
 Dataset file and Input file is a ".txt" file, example:
