@@ -17,6 +17,13 @@ file name
 minutiae type - y coordinate - x coordinate - angle of ridge
 ```
 
+<p align="center">
+    <img style="width: 40%" src="Image/Description-of-a-ﬁngerprint-minutiae.png"/>
+</p>
+<p align="center">
+  <b>Description of a ﬁngerprint minutiae</b>
+</p>
+
 # Reference
 - Więcław, Łukasz. "A minutiae-based matching algorithms in fingerprint recognition 
 systems." Journal of medical informatics & technologies 13 (2009).
