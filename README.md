@@ -1,2 +1,2 @@
-# Fingerprint-Matching-Winform-Application
+# Fingerprint Matching Winforms Application
  
