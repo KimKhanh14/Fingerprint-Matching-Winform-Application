@@ -1,7 +1,9 @@
-# Introduction
+# Fingerprint Matching Winforms Application
+
+## Introduction
  This is a Fingerprint Matching Winforms Application using Minutiae Feature. The project is written in C# language on Visual Studio 2019.
 
-# Data format
+## Data format
 Dataset file and Input file is a ".txt" file, example:
 
 ```bash
@@ -24,7 +26,21 @@ minutiae type - y coordinate - x coordinate - angle of ridge
   <b>Description of a ﬁngerprint minutiae</b>
 </p>
 
-# Reference
+## Instructions for use
+- Step 1: Import dataset and input file (Only accept .txt file)
+
+  note: If the data in the file .txt is wrong, it will be automatically ignored and enter the next qualified data.
+
+- Step 2: Choose the "Threshold" and "Matching algorithm"
+
+- Step 3: Click "Matching" button. If dataset or input is no file, this button is rejected
+
+- Step 4: When you change the "Threshold" or "Matching algorithm". The result is clean and the "Matching" button is enable.
+
+## Configuration
+Intel(R) Core(TM) i5-1038NG7 CPU @ 2.00GHz (8 CPUs), ~2.0GHz
+
+## Reference
 - Więcław, Łukasz. "A minutiae-based matching algorithms in fingerprint recognition 
 systems." Journal of medical informatics & technologies 13 (2009).
 - F. Chen, X. Huang, J. Zhou, Hierarchical minutiae matching for fingerprint and palmprint 
